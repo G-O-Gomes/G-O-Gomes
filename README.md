@@ -1,4 +1,4 @@
-### Hi there my name is Guilherme, Economy Student, Quant Enthusiast 🤓 
+### Hi there, i'm Guilherme, Economy Student, Quant Enthusiast 🤓 
 
 - 📈 I’m currently working on developing quantitative/algo strategies
 - 👨‍💻 I’m currently learning C++
