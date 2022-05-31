@@ -16,13 +16,13 @@
 <img align = "center" height="40" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> 
 <img align = "center" height="40" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img align = "center" height="40" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align = "right" height="200" width=200 src="https://media.giphy.com/media/kII3NwAFO3YOc/giphy.gif">
+
 
   
 ##
 <div>
   <a href = "https://linktr.ee/G.O.Gomes" target = "_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target = "_blank"></a>
-        
+<img align = "right" height="200" width=200 src="https://media.giphy.com/media/kII3NwAFO3YOc/giphy.gif">
           
       
           
