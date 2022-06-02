@@ -1,7 +1,7 @@
 ### Hi there, i'm Guilherme, Economy Student, Quant Enthusiast 🤓 
 
 - 📈 I’m currently working on developing quantitative/algo strategies
-- 👨‍💻 I’m currently learning C++
+- 👨‍💻 I’m currently learning C++ and Machine Learning
 
 
 ![G-O-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=G-O-Gomes&show_icons=true&theme=radical&count_private=true)
