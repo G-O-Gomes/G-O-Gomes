@@ -5,7 +5,7 @@
 
 
 ![G-O-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=G-O-Gomes&show_icons=true&theme=radical&count_private=true)
-[![G-O-Gomes Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-O-Gomes&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
