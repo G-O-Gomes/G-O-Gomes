@@ -1,4 +1,4 @@
-### Hi there, i'm Guilherme, Economy Student, Quant Enthusiast 🤓 
+### Hi there, i'm Guilherme, Economics Student, Quant Enthusiast 🤓 
 
 - 📈 I’m currently working on developing and backtesting quantitative/algo strategies
 - 👨‍💻 I’m currently learning C++ and Machine Learning
