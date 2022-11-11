@@ -19,9 +19,7 @@
 
 
   
-##
-<div>
-  <a href = "https://linktr.ee/G.O.Gomes" target = "_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target = "_blank"></a>
+
 
           
       
